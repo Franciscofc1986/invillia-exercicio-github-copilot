@@ -94,18 +94,25 @@ section h3 {
 }
 
 button {
-  background-color: #1a237e;
+  background-color: #4caf50; /* Alterado para verde */
   color: white;
   border: none;
-  padding: 10px 15px;
+  padding: 12px 20px; /* Aumentado o tamanho do botão */
   font-size: 16px;
-  border-radius: 5px;
+  font-weight: bold; /* Adicionado negrito */
+  border-radius: 8px; /* Bordas mais arredondadas */
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: background-color 0.3s, transform 0.2s; /* Adicionado efeito de transição */
 }
 
 button:hover {
-  background-color: #3949ab;
+  background-color: #45a049; /* Cor mais escura ao passar o mouse */
+  transform: scale(1.05); /* Leve aumento no tamanho ao passar o mouse */
+}
+
+button:active {
+  background-color: #3e8e41; /* Cor mais escura ao clicar */
+  transform: scale(0.95); /* Leve redução no tamanho ao clicar */
 }
 
 .message {
