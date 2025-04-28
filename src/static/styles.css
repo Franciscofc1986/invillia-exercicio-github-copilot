@@ -61,6 +61,19 @@ section:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Sombra mais intensa */
 }
 
+.activity-card ul {
+  list-style-type: disc; /* Adiciona marcadores */
+  margin: 10px 0 0 20px; /* Espaçamento interno e externo */
+  padding: 0;
+  color: #555; /* Cor mais suave */
+}
+
+.activity-card ul li {
+  margin-bottom: 5px; /* Espaçamento entre os itens */
+  font-size: 14px; /* Tamanho de fonte menor */
+  line-height: 1.4; /* Melhor espaçamento entre linhas */
+}
+
 button {
   background-color: #007bff; /* Azul moderno */
   color: white;
@@ -136,5 +149,14 @@ footer.dark-mode {
 }
 
 .dark-mode-toggle:hover {
+  background-color: #45a049;
+}
+
+
+.participants-list {
+  background-color: #45a049;
+}
+
+.participants-list  li{
   background-color: #45a049;
 }
