@@ -34,7 +34,7 @@ Neste exercício, você irá:
 
    - Para proprietário, escolha sua conta pessoal ou uma organização para hospedar o repositório.
    - Recomendamos criar um repositório público, pois repositórios privados utilizarão [minutos do Actions](https://docs.github.chttps://github.com/Franciscofc1986/invillia-exercicio-github-copilot/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Role a página para baixo e clique no botão **Create repository** no fim do formulário.
+   - Role a página para baixo e clique no botão **Create repository** no fim do formulário
 
 3. Após a criação do seu novo repositório, aguarde cerca de 20 segundos para que o exercício seja preparado e os botões sejam atualizados. Você continuará trabalhando na sua cópia do exercício.
 
